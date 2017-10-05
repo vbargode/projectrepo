@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>ansserlocal</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedBeansPackage>org.anssler.beans</selectedBeansPackage>
+  <selectedComponentsPackage>org.anssler.components</selectedComponentsPackage>
+  <selectedRestPackage>org.anssler.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>
