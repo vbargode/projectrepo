@@ -1,0 +1,7 @@
+org\anssler\beans\Author.class
+org\anssler\component\SimpleComponent.class
+org\anssler\beans\Blogpost.class
+org\anssler\beans\Account.class
+org\anssler\beans\SampleDocument.class
+org\anssler\info\SampleInfo.class
+org\anssler\beans\BaseDocument.class

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="hst:sitemenus">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hst:sitemenus</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:lastmodified" sv:type="Date">
+    <sv:value>2017-09-12T15:51:47.313+05:30</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:lastmodifiedby" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+</sv:node>

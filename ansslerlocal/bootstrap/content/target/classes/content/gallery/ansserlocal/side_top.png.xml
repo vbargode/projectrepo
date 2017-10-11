@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="side_top.png">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippo:handle</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>mix:referenceable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>03598dc9-0b6e-409a-bbdb-f1ccd41cf70f</sv:value>
+  </sv:property>
+  <sv:node sv:name="side_top.png">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippogallery:imageset</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+      <sv:value>live</sv:value>
+      <sv:value>preview</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippogallery:filename" sv:type="String">
+      <sv:value>side_top.png</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippogallery:thumbnail">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippogallery:image</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:filename" sv:type="String">
+        <sv:value>side_top.png</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:height" sv:type="Long">
+        <sv:value>3</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:width" sv:type="Long">
+        <sv:value>60</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:data" sv:type="Binary">
+        <sv:value>iVBORw0KGgoAAAANSUhEUgAAADwAAAADCAYAAADP0GwKAAAAQElEQVR42mP4//8/6+fPn4M/fvz44Nu3b/+HI/7z58//T58+BYL8yvD27dv8/yMEvH//Po/hx48f30aKh0F+BQD/i8HvXUL9tQAAAABJRU5ErkJggg==</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:lastModified" sv:type="Date">
+        <sv:value>2017-09-12T16:23:36.875+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mimeType" sv:type="String">
+        <sv:value>image/png</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="hippogallery:original">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippogallery:image</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:height" sv:type="Long">
+        <sv:value>14</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:width" sv:type="Long">
+        <sv:value>222</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:data" sv:type="Binary">
+        <sv:value>iVBORw0KGgoAAAANSUhEUgAAAN4AAAAOCAMAAAB3h1KqAAAAFXRFWHRDcmVhdGlvbiBUaW1lAAfaBRsOGixt45JFAAAAB3RJTUUH2gUbEBU1TalLQAAAAAlwSFlzAAAK8AAACvABQqw0mAAAAwBQTFRFAAAAgAAAAIAAgIAAAACAgACAAICAwMDAwNzApsrw1dXV29vb3Nzc3d3d39/f4ODg4eHh4uLi4+Pj5OTk5eXl5+fn6enp6urq6+vr8fHx8/Pz9PT09fX19vb29/f3+vr6+/v7/Pz8////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//vwoKCkgICA/wAAAP8A//8AAAD//wD/AP//////T29iDwAAAPp0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AN5gRSMAAACSSURBVHja3c85DoQwEETRzk27WW1Wg7n/BclgNFiC3K2SeEmlv+hIgpOPcGFPp+heX4gP+ycEL4V/36tkQ1fltEn1uLdygw7KreE13ZtNj67JrzfzfY8XdIuGhf/36g5doqOrf/ciozu0cLzuuQGdoWVw1z2LrtBjD5padISedqJyREfoGUuyER2hJ1oy6AZN5gTh08gf03boYwAAAABJRU5ErkJggg==</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:lastModified" sv:type="Date">
+        <sv:value>2017-09-12T16:23:36.875+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mimeType" sv:type="String">
+        <sv:value>image/png</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>

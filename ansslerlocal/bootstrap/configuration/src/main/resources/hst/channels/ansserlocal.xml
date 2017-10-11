@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="ansserlocal">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hst:channel</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:defaultdevice" sv:type="String">
+    <sv:value>default</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:devices" sv:type="String" sv:multiple="true"/>
+  <sv:property sv:name="hst:lastmodified" sv:type="Date">
+    <sv:value>2017-09-13T15:58:34.267+05:30</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:lastmodifiedby" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:name" sv:type="String">
+    <sv:value>Anssler Local</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:type" sv:type="String">
+    <sv:value>website</sv:value>
+  </sv:property>
+</sv:node>

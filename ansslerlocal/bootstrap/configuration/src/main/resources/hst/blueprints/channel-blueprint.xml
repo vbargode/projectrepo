@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="channel-blueprint">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hst:blueprint</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:contentRoot" sv:type="String">
+    <sv:value>/content/documents/subsites</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:description" sv:type="String">
+    <sv:value>Create a new subsite</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:name" sv:type="String">
+    <sv:value>Subsite</sv:value>
+  </sv:property>
+</sv:node>
